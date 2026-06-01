@@ -32,33 +32,62 @@
 - 🎓 BSc Computer Science (Hons), Upper Second (2:1) — Coventry University
 - 🧑‍💼 Senior Software Engineer with experience across several large enterprises
 - 🛡 Experienced across: cybersecurity, web engineering, system admin, scripting, automation & digital operations
-- 🌐 My online alias **StuxieDev** powers my personal dev identity
+- 🌐 My online alias **[StuxieDev](https://github.com/stuxiedev)** powers my personal dev identity
 - 🛠 I build products, automations, platforms, and tools across both professional and personal ecosystems
 - 📁 Explore my portfolio at [leo.ridgwell.family](https://leo.ridgwell.family)
 
 <h2>🧠 What I Work With</h2>
 
+<div align="center">
+
 **Languages**
+<br>
 ![Languages](https://skillicons.dev/icons?i=ts,js,html,css,py,bash,java,php,go)
 
+<br>
+
 **Frameworks & Tools**
+<br>
 ![Tools](https://skillicons.dev/icons?i=react,nextjs,astro,tailwind,nodejs,express,cloudflare,vercel,prisma,docker,git)
 
+<br>
+
 **Platforms & Cloud**
+<br>
 ![Cloud](https://skillicons.dev/icons?i=cloudflare,vercel,aws,linux,debian,ubuntu)
 
+<br>
+
 **Cybersecurity & Ops**
-Secure development practices ● Monitoring & alerting pipelines ● Linux server administration ● Network/system hardening ● Incident response support
+<br>
+
+![sec1](https://img.shields.io/badge/Secure_Development-222?style=flat-square)
+![sec2](https://img.shields.io/badge/Monitoring_%26_Alerting-222?style=flat-square)
+![sec3](https://img.shields.io/badge/Linux_Administration-222?style=flat-square)
+![sec4](https://img.shields.io/badge/Network_Hardening-222?style=flat-square)
+![sec5](https://img.shields.io/badge/Incident_Response-222?style=flat-square)
+
+</div>
 
 <h2>🔧 Featured Projects</h2>
 
 **🟣 [Sm.lol](https://sm.lol)** — A clean, efficient, privacy-respecting link management platform. Short links, easy sharing, powerful branding.
 
-**🤖 RoboStux** — Modular automation tooling and bot systems for moderation, utility, and productivity.
+**🤖 [RoboStux](https://robo.st)** — Modular automation tooling and bot systems for moderation, utility, and productivity.
 
-**📚 Ream.st** — A multi-view content platform supporting various media formats and layouts.
+**📚 [Ream.st](https://ream.st)** — A multi-view content platform supporting various media formats and layouts.
 
-**🌐 [StuxieDev / Stuxie.dev](https://stuxie.dev)** — My personal creative development hub — technologies, experiments, tools, and community resources.
+**🏢 [Stux.Group](https://www.stux.group)** — Parent of the Stux.Group Brand of Companies — innovating today, building tomorrow.
+
+**♻️ [Stuxedo](https://stuxedo.net)** — The smarter, greener hosting and services platform built for sustainability.
+
+**☁️ [Stux.Cloud](https://stux.cloud)** — Cloud infrastructure and hosting, powered by Stuxedo.
+
+**⚡ [StuxAPIs](https://stuxapis.net)** — API platform powering the Stux.Group ecosystem.
+
+**🎮 [Gaymer.Social](https://gaymer.social)** — An LGBTQ+ gaming community and Mastodon instance.
+
+**🌐 [Stuxie.Dev](https://stuxie.dev)** — My personal creative development hub — technologies, experiments, tools, and community resources.
 
 <a href="https://leo.ridgwell.family/about/portfolio"><b>See full portfolio →</b></a>
 
