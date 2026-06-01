@@ -30,7 +30,7 @@
 <i>Computer Science graduate ● Full-stack engineer ● Cybersecurity enthusiast ● Always building</i>
 
 - 🎓 BSc Computer Science (Hons), Upper Second (2:1) — Coventry University
-- 🧑‍💼 Software Engineer at CGI IT UK Ltd
+- 🧑‍💼 Senior Software Engineer with experience across several large enterprises
 - 🛡 Experienced across: cybersecurity, web engineering, system admin, scripting, automation & digital operations
 - 🌐 My online alias **StuxieDev** powers my personal dev identity
 - 🛠 I build products, automations, platforms, and tools across both professional and personal ecosystems
