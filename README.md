@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/LeoRidgwell.png" width="100px">
+  <img src="https://github.com/LeoRidgwell.png" width="100px" style="border-radius:50%">
   <h1>👋 Hi, I'm Leo JD Ridgwell</h1>
   <h3><i>My Motto: Creativity & Possibilities with Technology</i></h3>
   <p>
